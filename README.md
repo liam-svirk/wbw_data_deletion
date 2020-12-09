@@ -6,4 +6,6 @@
 
 When you have sent your e-mail with your Playfab ID, we will delete your data off our systems!
 
+More information about our data collection can be found on our privacy policy: https://www.iubenda.com/privacy-policy/54314810
+
 Thanks!
